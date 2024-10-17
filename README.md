@@ -7,7 +7,7 @@ To make this work you need to download the covid dataset from <a href="https://g
 ## Group Members
 We've worked on this project as a group: <br>
 <a href="https://github.com/muguryalcin">Mustafa Uğur Yalçın</a>,<br> 
-Melih Can Kanmaz, <br>
+<a href="https://github.com/MelihCK">Melih Can Kanmaz</a>, <br>
 <a href="https://github.com/tevfik0guz">Tevfik Oğuz</a><br>
 
 ## Screenshots
