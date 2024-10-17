@@ -8,7 +8,7 @@ To make this work you need to download the covid dataset from <a href="https://g
 We've worked on this project as a group: <br>
 <a href="https://github.com/muguryalcin">Mustafa Uğur Yalçın</a>,<br> 
 Melih Can Kanmaz, <br>
-<a href=https://github.com/tevfik0guz">Tevfik Oğuz</a><br>
+<a href="https://github.com/tevfik0guz">Tevfik Oğuz</a><br>
 
 ## Screenshots
 ![image](https://github.com/muguryalcin/stat292-covid-project/assets/20908810/0d234d73-0d21-4756-8c2e-ead758f3941c)
